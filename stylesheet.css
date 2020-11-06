@@ -30,8 +30,12 @@
 }
 
 img{
-    border-radius: 14%;
-    /* object-fit: contain;*/
+    /*border-radius: 14%;
+     object-fit: contain;*/
+}
+
+.foto{
+    border-radius: 18%;
 }
 
 .bilde{
